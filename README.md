@@ -1,5 +1,5 @@
 # Style-Transfer
-The content of one image are merged with the style of a second file.
+An excersize from the Udacity Deep Learning program I am currently working through.
 
 The details of this convolutional neural network are documented within the Jupyter notebook.
 However, in summary, this is a CNN which extracts the feature details from one image, the content image.
