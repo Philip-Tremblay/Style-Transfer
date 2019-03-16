@@ -8,4 +8,5 @@ A new image is created with the features of the content image in the style of th
 
 Here is a sample of what was originally produced by Udacity:
 
-[image1]: ./notebook_ims/style_tx_cat.png
+[image1]:  Style-Transfer/notebook_ims/style_tx_cat.png
+
